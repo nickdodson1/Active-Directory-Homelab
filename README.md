@@ -5,7 +5,7 @@ Active Directory lab built on Proxmox to practice real-world IT skills like doma
 
 ## Lab Overview
 - Hypervisor: Proxmox VE (bare metal)
-- Domain: 'lab.local
+- Domain: 'lab.local'
 - Servers and Clients:
   - Windows Server (Domain Controller + DNS) - 'DC01'
   - Windows 11 workstation (domain-joined)
