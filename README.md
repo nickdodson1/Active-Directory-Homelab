@@ -1,2 +1,2 @@
 # Active-Directory-Homelab
-Active Direcotry home lab built on proxmox with Windows Server and Windows 11, including DNS, domain join and troubleshooting
+Active Directory lab built on Proxmox to practice real-world IT skills like domain management, DNS troubleshooting, Group Policy, and user/group administration.
