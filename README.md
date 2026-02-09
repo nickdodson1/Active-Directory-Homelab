@@ -50,5 +50,5 @@ Active Directory lab built on Proxmox to practice real-world IT skills like doma
 ### Organizational Unit Structure
 Designed a logical OU hierarchy to separate users, groups and administrative roles. 
 
-! [OU Structure](screenshots/01-ou-structure.png)
+![OU Structure](screenshots/01-ou-structure.png)
 
