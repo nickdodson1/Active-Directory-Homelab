@@ -57,4 +57,9 @@ Created multiple users and role-based security groups to simulate a real environ
 
 ![Users](screenshots/02-users.png)![Groups](screenshots/03-groups.png)
 
+### Domain Join Verification
+Verified the Windows 11 client successfully joined the domain
+
+![Domain Joined](screenshots/04-domain-joined.png) 
+
 
