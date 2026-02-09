@@ -53,13 +53,31 @@ Designed a logical OU hierarchy to separate users, groups and administrative rol
 ![OU Structure](screenshots/01-ou-structure.png)
 
 ### Users and Security Groups
-Created multiple users and role-based security groups to simulate a real environment
+Created multiple users and role-based security groups to simulate a real environment.
 
 ![Users](screenshots/02-users.png)![Groups](screenshots/03-groups.png)
 
 ### Domain Join Verification
-Verified the Windows 11 client successfully joined the domain
+Verified the Windows 11 client successfully joined the domain.
 
 ![Domain Joined](screenshots/04-domain-joined.png) 
 
+### Domain User Authentication
+Verified Acitve Directory authentication by logging in with a domain user account.
 
+![Domain User Authentication](screenshots/05-domain-user.png)
+
+### Locked User Account
+Simulated an issue by intentionally locking a user account after multiple failed login attempts.
+
+![Account Locked](screenshots/06-account-locked.png)
+
+### Unlocking a User Account
+Unlocking the affected user account through AD Users and Computers and restored access.
+
+![Unlocked Account](screenshots/07-unlock-account.png)
+
+### Group Policy Configuration - Control Panel Restriction
+Created and scoped a GPO to restrict access to Control Panel and PC settings for standard users.
+
+![GPO Control Panel Disabled](08-gpo-enabled.png)[GPO Working](09-gpo-working.png)
