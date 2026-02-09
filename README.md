@@ -55,5 +55,5 @@ Designed a logical OU hierarchy to separate users, groups and administrative rol
 ### Users and Security Groups
 Created multiple users and role-based security groups to simulate a real environment
 
-![Users and Groups] (screenshots/02-users) (screenshots/03-groups)
+![Users and Groups](screenshots/02-users)(screenshots/03-groups)
 
