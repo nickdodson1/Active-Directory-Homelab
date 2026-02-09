@@ -80,4 +80,4 @@ Unlocking the affected user account through AD Users and Computers and restored 
 ### Group Policy Configuration - Control Panel Restriction
 Created and scoped a GPO to restrict access to Control Panel and PC settings for standard users.
 
-![GPO Control Panel Disabled](08-gpo-enabled.png)[GPO Working](09-gpo-working.png)
+![GPO Control Panel Disabled](08-gpo-enabled.png)![GPO Working](09-gpo-working.png)
